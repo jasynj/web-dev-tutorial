@@ -1,1 +1,1 @@
-# Omni foods website
+# Web development tutorial
