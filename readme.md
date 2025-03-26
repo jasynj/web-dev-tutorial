@@ -1,1 +1,1 @@
-# Web development tutorial
+# Web development tutorial in HTML5, CSS, and JavaScript
