@@ -3,9 +3,9 @@ This repository contains a simple project created while learning HTML5, CSS, and
 
 🛠 What's Included
 
-<ol>
+<ul>
   <li>HTML structure with semantic tags</li>
   <li>CSS styling for design and layout</li>
   <li>Example blog post with images and links</li>
   <li>Basic navigation and footer</li>   
-</ol>
+</ul>
